@@ -15,6 +15,6 @@ if __name__ == '__main__':
 # Создание каталога на Яндекс.диске и загрузка в него всех фотографий
 # из json-файла
 #
-    cwya = CourseWorkYandex('AQAAAAAAEmsuAADLW1vwisA-2EFpsaMonW8dlSw')
+    cwya = CourseWorkYandex('token from Yandex.Disk Poligon')
     cwya.upload('py48_Antipov')
 
